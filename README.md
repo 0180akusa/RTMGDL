@@ -1,2 +1,2 @@
 # RTMGDL
-RAKUTEN Magazine download tool
+RAKUTEN Magazine Download Tool
